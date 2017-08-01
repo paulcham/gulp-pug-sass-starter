@@ -1,4 +1,4 @@
-// Maria De La Guardia Site
+// gulp-pug-sass starter
 
 // TASKS
 // ------
